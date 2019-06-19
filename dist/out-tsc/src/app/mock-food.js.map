@@ -1,0 +1,1 @@
+{"version":3,"file":"mock-food.js","sourceRoot":"","sources":["../../../../src/app/mock-food.ts"],"names":[],"mappings":"AACA,MAAM,CAAC,IAAM,IAAI,GAAW;IACxB;QACI,IAAI,EAAE,KAAK;QACX,KAAK,EAAE,KAAK;QACZ,QAAQ,EAAE,EAAE;QACZ,OAAO,EAAE,EAAE;KACd;IACD;QACI,IAAI,EAAE,KAAK;QACX,KAAK,EAAE,KAAK;QACZ,QAAQ,EAAE,EAAE;QACZ,OAAO,EAAE,EAAE;KACd;CACJ,CAAA"}

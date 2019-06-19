@@ -1,0 +1,26 @@
+<p>
+  product-details works!
+</p>
+<div *ngIf="currentProducts">
+  <h2>{{currentProducts.name}}, {{currentProducts.color}} Details:</h2>
+  <div><span>Quantity: </span>{{currentProducts.quantity}}</div>
+  <div><span>Quality: </span>{{currentProducts.quality}}</div>
+  <div>
+    <label for="">
+      Name:
+      <input [(ngModel)]="currentProducts.name" placeholder="Name" />
+    </label>
+    <label for="">
+      Color:
+      <input [(ngModel)]="currentProducts.color" placeholder="Color" />
+    </label>
+    <label for="">
+      Quantity:
+      <input [(ngModel)]="currentProducts.quantity" type="number" placeholder="Quantity" />
+    </label>
+    <label for="">
+      Quality:
+      <input [(ngModel)]="currentProducts.quality" type="number" placeholder="Quality" />
+    </label>
+  </div>
+</div>

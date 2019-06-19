@@ -1,0 +1,15 @@
+<p>
+  product works!
+</p>
+<h2>{{bestFood.name}} List:</h2>
+<!-- <div><span>name: </span>{{bestFood.name}}</div>
+<div><span>color: </span>{{bestFood.color}}</div> -->
+<ul>
+  <li *ngFor="let meals of allProducts" (click)="selectFood(meals)" [class.selected]="meals===currentFood">
+    {{meals.quantity}},
+    {{meals.name}},
+    {{meals.color}}
+
+  </li>
+</ul>
+<app-product-details [currentProducts]="currentFood"> </app-product-details>
