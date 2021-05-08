@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/food-for-heroes",
             "index": "src/index.html",
-            "main": "src/main.ts",
+            "main": "dist/out-tsc/src/main.js",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
