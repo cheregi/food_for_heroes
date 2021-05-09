@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## About
 
-![food for heroes](/src/assets/ffh.JPG)
+![food for heroes](/src/assets/ffh_screen.jpg)
 
 Checkout my [**demo**](https://cheregi.github.io/food_for_heroes/)
 
