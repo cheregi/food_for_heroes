@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/food-for-heroes",
+            "outputPath": "docs/",
             "index": "src/index.html",
             "main": "dist/out-tsc/src/main.js",
             "polyfills": "src/polyfills.ts",
