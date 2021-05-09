@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "docs/",
             "index": "src/index.html",
-            "main": "dist/out-tsc/src/main.js",
+            "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "src/tsconfig.app.json",
             "assets": [

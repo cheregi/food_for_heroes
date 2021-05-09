@@ -26,16 +26,16 @@ SOFTWARE.
 @angular/common
 MIT
 
-@angular/compiler
+@angular/core
 MIT
 
-@angular/core
+@angular/forms
 MIT
 
 @angular/platform-browser
 MIT
 
-@angular/platform-browser-dynamic
+@angular/router
 MIT
 
 core-js
