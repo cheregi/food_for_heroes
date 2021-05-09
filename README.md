@@ -9,8 +9,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## About
 
 # Generated deployables command
-`<npm install @angular-devkit/build-angular>`
-`<ng build --prod --baseHref="https://cheregi.github.io/food_for_heroes/">`
+
+`npm install @angular-devkit/build-angular`
+
+`ng build --prod --baseHref="https://cheregi.github.io/food_for_heroes/"`
 
 ![food for heroes](/src/assets/ffh_screen.jpg)
 
