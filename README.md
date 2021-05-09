@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## About
 
-# Generated deployables command
+## Generated deployables command
 
 `npm install @angular-devkit/build-angular`
 
